@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it."
+title: "TransWave: Causal Multiscale Meyer Mixing for Raw-Byte Language Modeling"
+type: software
+authors:
+  - family-names: "Majumdar"
+    given-names: "Angshul"
+date-released: 2026-10-11
+url: "https://github.com/AngshulMajumdar/TransWaveV1"
+license: AGPL-3.0

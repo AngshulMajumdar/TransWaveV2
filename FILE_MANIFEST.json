@@ -1,0 +1,146 @@
+{
+  "CITATION.cff": {
+    "bytes": 332,
+    "sha256": "68a3fc3a194f96005415e7ee95ebbbfdf42ab4f57e6d94f43f5f4125a4e544b6"
+  },
+  "LICENSE": {
+    "bytes": 34273,
+    "sha256": "5132c7f0475b02c8107a2e0f0363e70423c62d2664ab927e76193226e5e05905"
+  },
+  "MODEL_CARD.md": {
+    "bytes": 1136,
+    "sha256": "3c3ac52cee81b8a29a77b41e707f8ef396cef9c697007b3c9df29e75d93a9edc"
+  },
+  "README.md": {
+    "bytes": 11087,
+    "sha256": "8d74145d60d1052db594036e5d81dead90af22b76f97f567002aed07fe51a84d"
+  },
+  "benchmarks/comparison_tables.csv": {
+    "bytes": 1622,
+    "sha256": "f7540249b94064467040076269ee6619562febc962741958aa280a17b2da3275"
+  },
+  "benchmarks/final_causal_results.csv": {
+    "bytes": 411,
+    "sha256": "67a24a4b00eee0696e210fb978d48fa1bff840543af599eebbe5ecf281d03319"
+  },
+  "benchmarks/final_causal_results/arxiv.json": {
+    "bytes": 4077,
+    "sha256": "f76de2590c04041ecc68cd7803d8e71cd7b9b8e7549f1dfa1b35cf9ecbb786d8"
+  },
+  "benchmarks/final_causal_results/fineweb_edu.json": {
+    "bytes": 4088,
+    "sha256": "66a4ded3072c57501d12eef69eb333d41d8683e99ec63265ac398e87d2d4473b"
+  },
+  "benchmarks/final_causal_results/pg19.json": {
+    "bytes": 4085,
+    "sha256": "98c6aebcf0a74594b9896f6189cd955dd6f43c5167e08a5d9a18b3cf9a878011"
+  },
+  "benchmarks/final_causal_results/wikitext103.json": {
+    "bytes": 4106,
+    "sha256": "6c51d689a07ac9b94061b2a6c729e4334569f3072fbadc4e7635cbf07a5b2ffb"
+  },
+  "docs/ARCHITECTURE.md": {
+    "bytes": 2677,
+    "sha256": "fb6431df714075e32d6a537a7f123e008734226307fdc78989213333a08a9153"
+  },
+  "docs/BENCHMARK_PROTOCOL.md": {
+    "bytes": 1509,
+    "sha256": "5640a83bbb04bf6e724ecc0f45f5057f9c3b60393f12eaa6cdc771aeb19feb50"
+  },
+  "docs/RELEASE_4P5B.md": {
+    "bytes": 997,
+    "sha256": "f2ccf6dc38082ddb4a6f07dc5b21afc9e04b9753e10430ed678a55501d12eb05"
+  },
+  "figures/architecture/transwave_meyer_96m_architecture.svg": {
+    "bytes": 6894,
+    "sha256": "f7425d1250cde882cef20a447d3011a8c13c1ebfd9a21134e0f3bf3e3f739eb8"
+  },
+  "figures/benchmarks/arxiv_benchmark_table.png": {
+    "bytes": 188621,
+    "sha256": "8ea573003227d23be251489f255a4474679a28851785f15d77398f932326cb61"
+  },
+  "figures/benchmarks/arxiv_benchmark_table.svg": {
+    "bytes": 71533,
+    "sha256": "c73bc49ebb02ed59f5206165195e8734a3c13ba0a4443b8fab23d8757d6a0d84"
+  },
+  "figures/benchmarks/fineweb_edu_benchmark_table.png": {
+    "bytes": 202019,
+    "sha256": "932b9663887595de6f71d5791849f320f2c4c8ae78210e532cdcdd81eea49a12"
+  },
+  "figures/benchmarks/fineweb_edu_benchmark_table.svg": {
+    "bytes": 72142,
+    "sha256": "3e3ed8684c9e052a2fc82219d481f49c7b0ebf3b04eea3e049a25cf4a9dc8e8c"
+  },
+  "figures/benchmarks/pg19_benchmark_table.png": {
+    "bytes": 199557,
+    "sha256": "145c1cdf65c249b9ea6b6b6a0d3dc70633588ff32db3dc1956f921416ab97761"
+  },
+  "figures/benchmarks/pg19_benchmark_table.svg": {
+    "bytes": 72227,
+    "sha256": "6112eb6f8bc0389fcf0b29016d36a122fbac4640ddba9231052dc2d9b1fde7c6"
+  },
+  "figures/benchmarks/wikitext_103_benchmark_table.png": {
+    "bytes": 200862,
+    "sha256": "bc69e775af9c1879a49ee2449e921af95f1108448c011aa9e46fc33537524b59"
+  },
+  "figures/benchmarks/wikitext_103_benchmark_table.svg": {
+    "bytes": 72288,
+    "sha256": "2b50e0dd9bb39427c218f3cc7d3e69d036c6d852eb249193fb2a6c43bd525b99"
+  },
+  "figures/conceptual/symbolic_tensor_wavelet_architecture.png": {
+    "bytes": 1850060,
+    "sha256": "c3a3ae0dd3c57756729adc22056c03674422967fdf02262ee8a8dae9b8c68080"
+  },
+  "release/data_manifest.json": {
+    "bytes": 1341,
+    "sha256": "823a862830b9aa937ee68d6498b0431e15d1df3a579c64641538c976511048b7"
+  },
+  "release/export_manifest.json": {
+    "bytes": 1121,
+    "sha256": "9e5106b3c45c4525466b65d94ed4bb7a7aadf7a0095b494c9eee14008a8aebcf"
+  },
+  "release/g4_batch_plan.json": {
+    "bytes": 2298,
+    "sha256": "f196d6800e95eb3f1757a8a4fddd175f6866d3b7f5896e709840a2962940f1f6"
+  },
+  "release/result_4p5b.json": {
+    "bytes": 1379,
+    "sha256": "b9a68a483e027a4d55beebe287196bb0e49dd14ebdd33696d785fcc6a3ebd001"
+  },
+  "release/training_config_4p5b.json": {
+    "bytes": 1099,
+    "sha256": "2a5014a24b46a98cde2ee36f849b96ca557a3266b9cf98db4b0cd43b3fe8e28c"
+  },
+  "release/training_history_4p5b.json": {
+    "bytes": 342582,
+    "sha256": "9dc85f3a89b13c8354a78e6057fffe2b3f68bead6874f6492d8df36aa846538f"
+  },
+  "requirements.txt": {
+    "bytes": 58,
+    "sha256": "1817df3032e01760b390a70118fa77fe09713e5be6b0a319a2984f1cd236f79a"
+  },
+  "scripts/check_no_hidden_paths.py": {
+    "bytes": 380,
+    "sha256": "a2189cb8e350f0c2a6af6e805413976a200b8d14c4e0782b02fd896e8e24f89c"
+  },
+  "scripts/make_benchmark_figures.py": {
+    "bytes": 2494,
+    "sha256": "c8bc3920c81eccd6e64fed5a1d23a4b33a92b8bb43a865ba645bfac9e32d8d52"
+  },
+  "scripts/verify_results.py": {
+    "bytes": 974,
+    "sha256": "5557d69a64c2c6510cebbabf2e47b10e915ff1c0dad9a706a156b59914c0ed93"
+  },
+  "src/transwave_architecture.py": {
+    "bytes": 49155,
+    "sha256": "1e7193a16daf178dfd7e8499607c4a025dc16a6dbf157fdb3f6876213929f52f"
+  },
+  "training/TransWave_Meyer_96M_4p5B_HF_Pretrain_G4.ipynb": {
+    "bytes": 125046,
+    "sha256": "466365ee25fa21fdf29e835f0e0f3d6e3fa01093d331592b77c2b0a4f94e02a3"
+  },
+  "training/train_4p5b.py": {
+    "bytes": 31175,
+    "sha256": "14735555a952bee8fe348402d52c8d68ca56dd36f95e8dbe23c23078794d9cf4"
+  }
+}

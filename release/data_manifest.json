@@ -1,0 +1,46 @@
+{
+  "train": {
+    "arxiv": {
+      "full_contexts": 16640,
+      "raw_bytes": 545262781,
+      "source": "/content/drive/MyDrive/spliNet/raw_text/arxiv/train.txt"
+    },
+    "fineweb_edu": {
+      "full_contexts": 16640,
+      "raw_bytes": 545262465,
+      "source": "/content/drive/MyDrive/spliNet/raw_text/fineweb_edu/train.txt"
+    },
+    "pg19": {
+      "full_contexts": 16646,
+      "raw_bytes": 545476793,
+      "source": "/content/drive/MyDrive/spliNet/raw_text/pg19/train.txt"
+    },
+    "wikitext103": {
+      "full_contexts": 15948,
+      "raw_bytes": 522608696,
+      "source": "/content/drive/MyDrive/spliNet/raw_text/wikitext103/train.txt"
+    }
+  },
+  "validation": {
+    "arxiv": {
+      "full_contexts": 512,
+      "raw_bytes": 16790635,
+      "source": "/content/drive/MyDrive/spliNet/raw_text/arxiv/validation.txt"
+    },
+    "fineweb_edu": {
+      "full_contexts": 512,
+      "raw_bytes": 16778707,
+      "source": "/content/drive/MyDrive/spliNet/raw_text/fineweb_edu/validation.txt"
+    },
+    "pg19": {
+      "full_contexts": 520,
+      "raw_bytes": 17067667,
+      "source": "/content/drive/MyDrive/spliNet/raw_text/pg19/validation.txt"
+    },
+    "wikitext103": {
+      "full_contexts": 512,
+      "raw_bytes": 16777280,
+      "source": "/content/drive/MyDrive/spliNet/raw_text/wikitext103/validation.txt"
+    }
+  }
+}

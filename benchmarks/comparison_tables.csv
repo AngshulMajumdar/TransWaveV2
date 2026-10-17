@@ -1,0 +1,17 @@
+dataset,method,nll,ppl,bpb_if_available,protocol_note
+arXiv,Mamba-2,2.721178,15.198222,,historical recorded baseline; earlier tokenized 15% MLM protocol
+arXiv,Hyena,2.472997,11.857936,,historical recorded baseline; earlier tokenized 15% MLM protocol
+arXiv,RetNet,2.505527,12.250016,,historical recorded baseline; earlier tokenized 15% MLM protocol
+arXiv,TransWave,2.222877,9.233854,3.206933,exact causal raw-byte next-byte model
+FineWeb-Edu,Mamba-2,4.417161,82.860734,,historical recorded baseline; earlier tokenized 15% MLM protocol
+FineWeb-Edu,Hyena,4.289595,72.936943,,historical recorded baseline; earlier tokenized 15% MLM protocol
+FineWeb-Edu,RetNet,4.249693,70.083923,,historical recorded baseline; earlier tokenized 15% MLM protocol
+FineWeb-Edu,TransWave,2.523234,12.468853,3.640257,exact causal raw-byte next-byte model
+PG19,Mamba-2,4.528377,92.608091,,historical recorded baseline; earlier tokenized 15% MLM protocol
+PG19,Hyena,4.272470,71.698544,,historical recorded baseline; earlier tokenized 15% MLM protocol
+PG19,RetNet,4.298588,73.595795,,historical recorded baseline; earlier tokenized 15% MLM protocol
+PG19,TransWave,2.452323,11.615302,3.537955,exact causal raw-byte next-byte model
+WikiText-103,Mamba-2,4.029364,56.225123,,historical recorded baseline; earlier tokenized 15% MLM protocol
+WikiText-103,Hyena,3.756758,42.809413,,historical recorded baseline; earlier tokenized 15% MLM protocol
+WikiText-103,RetNet,3.804997,44.925102,,historical recorded baseline; earlier tokenized 15% MLM protocol
+WikiText-103,TransWave,2.486348,12.017311,3.587042,exact causal raw-byte next-byte model

@@ -1,0 +1,50 @@
+{
+  "architecture": "causal_transwave_blocklifting_meyer_byte_lm_g4_v2",
+  "fingerprint": "0bee15fa6b06e1e6cd9c5ec22c901da27365c7d83b7b7e8efa8b4b1786b21470",
+  "fused_adamw": true,
+  "parameter_count": 96130040,
+  "peak_allocated_gib": 72.55179071426392,
+  "peak_reserved_gib": 91.60546875,
+  "physical_batch_final": 144,
+  "release_name": "TransWave-Meyer-96M-4.5B",
+  "status": "complete",
+  "steps": 954,
+  "token_definition": "one raw byte",
+  "trainable_parameter_count": 96130040,
+  "training_seconds": 9222.19143681,
+  "training_tokens": 4499996672,
+  "validation": {
+    "overall": {
+      "bpb": 3.0693984475196667,
+      "nll": 2.12754487991333,
+      "ppl": 8.394232642950044,
+      "tokens": 1048576
+    },
+    "per_dataset": {
+      "arxiv": {
+        "bpb": 2.9281731739371626,
+        "nll": 2.0296549797058105,
+        "ppl": 7.611459797598996,
+        "tokens": 262144
+      },
+      "fineweb_edu": {
+        "bpb": 3.1594798643538904,
+        "nll": 2.1899845600128174,
+        "ppl": 8.935075156187825,
+        "tokens": 262144
+      },
+      "pg19": {
+        "bpb": 3.049608747850185,
+        "nll": 2.113827705383301,
+        "ppl": 8.279873623209625,
+        "tokens": 262144
+      },
+      "wikitext103": {
+        "bpb": 3.1403320039374285,
+        "nll": 2.1767122745513916,
+        "ppl": 8.817269790630371,
+        "tokens": 262144
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "architecture": "causal_transwave_blocklifting_meyer_byte_lm_g4_v2",
+  "context_length_bytes": 32768,
+  "parameter_count": 96130040,
+  "release_name": "TransWave-Meyer-96M-4.5B",
+  "token_definition": "raw byte IDs 0..255",
+  "training_tokens": 4499996672,
+  "validation": {
+    "overall": {
+      "bpb": 3.0693984475196667,
+      "nll": 2.12754487991333,
+      "ppl": 8.394232642950044,
+      "tokens": 1048576
+    },
+    "per_dataset": {
+      "arxiv": {
+        "bpb": 2.9281731739371626,
+        "nll": 2.0296549797058105,
+        "ppl": 7.611459797598996,
+        "tokens": 262144
+      },
+      "fineweb_edu": {
+        "bpb": 3.1594798643538904,
+        "nll": 2.1899845600128174,
+        "ppl": 8.935075156187825,
+        "tokens": 262144
+      },
+      "pg19": {
+        "bpb": 3.049608747850185,
+        "nll": 2.113827705383301,
+        "ppl": 8.279873623209625,
+        "tokens": 262144
+      },
+      "wikitext103": {
+        "bpb": 3.1403320039374285,
+        "nll": 2.1767122745513916,
+        "ppl": 8.817269790630371,
+        "tokens": 262144
+      }
+    }
+  },
+  "weight_file": "model.safetensors"
+}

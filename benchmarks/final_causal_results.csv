@@ -1,0 +1,5 @@
+dataset,nll,ppl,bpb,parameters,context_bytes,objective
+arXiv,2.222876538,9.233854229,3.206932957,96130040,32768,exact_causal_next_byte_nll
+FineWeb-Edu,2.523233801,12.468853329,3.640256892,96130040,32768,exact_causal_next_byte_nll
+PG19,2.452323345,11.615301748,3.537954729,96130040,32768,exact_causal_next_byte_nll
+WikiText-103,2.486348230,12.017311442,3.587042262,96130040,32768,exact_causal_next_byte_nll
